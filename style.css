@@ -93,11 +93,9 @@ q:lang(uk)::before { color: #1f3b73; }
 .page-footer { margin-bottom: auto; }                
 .intro-box { margin-bottom: 12px; }
 
-/* padding */
 .page-header { padding-right: 20px; padding-bottom: 10px; padding-left: 20px; padding-top: 10px; }
 .page-footer { padding: 10px 20px; }
 
-/* border-width */
 .card { border-width: thin; }                        
 .card.wide { border-width: 3px; }
 .card.wide { border-right-width: thin; }             
